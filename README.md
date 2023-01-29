@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://i.ibb.co/d6ykQX6/Fire-Shot-Capture-002-Frontend-Mentor-Product-preview-card-component-127-0-0-1.png?)
+![image](https://i.ibb.co/dD1r5Lt/Fire-Shot-Capture-003-Frontend-Mentor-Product-preview-card-component-127-0-0-1.png?)
 
 
 ### Links
