@@ -8,7 +8,7 @@ main{
         box-shadow: 9px 13px 5px -3px rgba(0,0,0,0.27);
         display: flex;
         justify-content: center;
-        margin: 6rem auto;
+        margin: 8rem auto;
         max-height: 150vh;
         max-width: 85vh;
   }
