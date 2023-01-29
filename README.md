@@ -50,4 +50,4 @@ Users should be able to:
 ## Author
 
 - Website - [Pranav Deshmukh](https://github.com/Pranavd-git)
-- Frontend Mentor - [@Pranavd-git] (https://www.frontendmentor.io/profile/Pranavd-git)
+- Frontend Mentor - @Pranavd-git (https://www.frontendmentor.io/profile/Pranavd-git)
