@@ -38,6 +38,7 @@ button{
         padding: 0.5rem;
         text-align: center;
         width: 35vh;
+        cursor: pointer;
     }
 button:hover{
     background-color: hsl(228, 12%, 48%)
