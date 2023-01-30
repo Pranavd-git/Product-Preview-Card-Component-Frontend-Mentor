@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-mCvyMLJ9zm
-- Live Site URL: https://pranavd-git.github.io/Product-Preview-Card-Component-Frontend-Mentors/
+- Live Site URL: https://pranavd-git.github.io/Product-Preview-Card-Component-Frontend-Mentor/
 
 ### Built with
 
